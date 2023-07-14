@@ -4,9 +4,9 @@
 
 
 
-### Hi there! 👋
+### Hi there and Howdy! 👋
 
-Howdy! My name is Breanna! 
+My name is Breanna! 
 - I'm a Data Scientist with 3+ years of internship and part-time experience leveraging data-driven insights to drive business success and user satisfaction!
 - I've worked/collaborated with teams at Google, Memorial Sloan Kettering Cancer Center, Harvard Medical School/Massachusetts General Hospital, Brown University, and Amherst College
 - I have a Master's degree from Brown University (Biostatistics) and a Bachelor's degree from Amherst College (Statistics)!
