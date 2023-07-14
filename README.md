@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brichards21" alt="brichards21"/></p>
+
 ### Hi there 👋
 
 <!--
