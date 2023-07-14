@@ -4,7 +4,7 @@
 
 
 
-### Hi there and Howdy! 👋
+### Hi There and Howdy! 👋
 
 My name is Breanna! 
 - I'm a Data Scientist with 3+ years of internship and part-time experience leveraging data-driven insights to drive business success and user satisfaction!
