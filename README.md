@@ -2,7 +2,10 @@
 
 ### Hi there 👋
 
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brichards21)](https://github.com/brichards21/github-readme-stats)
+
 **brichards21/brichards21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
