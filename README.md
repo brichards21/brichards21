@@ -27,6 +27,9 @@ I've hosted a variety of data science/statistics/data analyst projects on GitHub
 
 - [Detecting Spam in the Presence of Spoofing on SMS Platforms](https://brichards21.github.io/SMSDiscordSpam/): Leveraged personal Discord messaging data to define potential detection methods when a spammer poses as a trusted source (spoofing) using natural language processing (NLP) in Python (pandas, NumPy, NLTK) and visualization libraries in R (ggplot2). 
 
+- [Analyzing Anime Scores and Popularity Using the Power Data](https://brichards21.github.io/anime-proj-site/): Analyzed MyAnimeList.net data from 2020 motivated by various preliminary research questions centered around drivers of anime scores derived by diverse audiences using feature selection, linear regression prediction modeling, paired t-tests, and text analysis in Python (pandas, NumPy, Matplotlib), R, SQL, and Tableau.
+  
+- [Diary of a Data Science Student](https://brichards21.github.io/calendar-project/): Created strategies to optimize productivity and work-life balance by collecting and interpreting personal Google Calendar data using R and SQL. 
 
 Check out my [LinkedIn](https://www.linkedin.com/in/breannarichards/) and my [Portfolio Website](https://breanna-richards.netlify.app/#) for a more comprehensible look at my education and work history!
 
